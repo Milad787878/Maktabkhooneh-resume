@@ -1,0 +1,27 @@
+.main3 {
+    background-color: gray;
+}
+.temp31 {
+    height: 110px;
+}
+.temp32 {
+    height: 50px;
+}
+.Cardheight {
+    min-height: 100px;
+    margin: 10px
+}
+#skill {
+    text-align: left;
+    font-size: 80px;
+    margin-left: 120px;
+
+}
+.js {
+    height: 150px;
+    width: 150px;
+}
+.up {
+    height: 50px;
+    width: 50px;
+}

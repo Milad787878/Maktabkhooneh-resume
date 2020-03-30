@@ -1,0 +1,68 @@
+{
+  "title": "Hello I'm Milad!",
+  "subtitle": "I'm studing petroleum engineering | I love React!",
+  "links": {
+    "github": "",
+    "telegram": "",
+    "linkedin": ""
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "type": "p",
+          "content": "I'm a student in sharif university of technology"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "Javascript"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "Python"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "HTML"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "imag": "/url",
+            "title": "CSS"
+          }
+        }
+      ]
+    }
+
+  ]
+}
