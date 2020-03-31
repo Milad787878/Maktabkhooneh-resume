@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Maktabkhooneh-resume/static/css/main.0e93d8b8.chunk.css",
+    "main.js": "/Maktabkhooneh-resume/static/js/main.226b3182.chunk.js",
+    "main.js.map": "/Maktabkhooneh-resume/static/js/main.226b3182.chunk.js.map",
+    "runtime-main.js": "/Maktabkhooneh-resume/static/js/runtime-main.c3008744.js",
+    "runtime-main.js.map": "/Maktabkhooneh-resume/static/js/runtime-main.c3008744.js.map",
+    "static/css/2.89f067aa.chunk.css": "/Maktabkhooneh-resume/static/css/2.89f067aa.chunk.css",
+    "static/js/2.000aa49d.chunk.js": "/Maktabkhooneh-resume/static/js/2.000aa49d.chunk.js",
+    "static/js/2.000aa49d.chunk.js.map": "/Maktabkhooneh-resume/static/js/2.000aa49d.chunk.js.map",
+    "index.html": "/Maktabkhooneh-resume/index.html",
+    "precache-manifest.766674ae94ab74d4dc948db92de3f69d.js": "/Maktabkhooneh-resume/precache-manifest.766674ae94ab74d4dc948db92de3f69d.js",
+    "service-worker.js": "/Maktabkhooneh-resume/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/Maktabkhooneh-resume/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.0e93d8b8.chunk.css.map": "/Maktabkhooneh-resume/static/css/main.0e93d8b8.chunk.css.map",
+    "static/js/2.000aa49d.chunk.js.LICENSE.txt": "/Maktabkhooneh-resume/static/js/2.000aa49d.chunk.js.LICENSE.txt",
+    "static/media/instagram.png": "/Maktabkhooneh-resume/static/media/instagram.ede1570f.png",
+    "static/media/js.jpg": "/Maktabkhooneh-resume/static/media/js.06714469.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3008744.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.000aa49d.chunk.js",
+    "static/css/main.0e93d8b8.chunk.css",
+    "static/js/main.226b3182.chunk.js"
+  ]
+}
